@@ -20,7 +20,7 @@ class _Item1State extends State<Item1> {
             child: Image.asset('images/jacket2.jpg'),
 
           ),
-          Text("Item name: Jacket 1",
+          Text("Item name: Jacket 2",
             style: TextStyle(
               fontSize: 30,
               fontFamily: 'Fasthand',
@@ -95,7 +95,7 @@ class _Item2State extends State<Item2> {
             child: Image.asset('images/jacket3.jpg'),
 
           ),
-          Text("Item name: Jacket 1",
+          Text("Item name: Jacket 3",
             style: TextStyle(
               fontSize: 30,
               fontFamily: 'Fasthand',
@@ -170,7 +170,7 @@ class _Item3State extends State<Item3> {
             child: Image.asset('images/jacket4.jpg'),
 
           ),
-          Text("Item name: Jacket 1",
+          Text("Item name: Jacket 4",
             style: TextStyle(
               fontSize: 30,
               fontFamily: 'Fasthand',
@@ -246,7 +246,7 @@ class _Item4State extends State<Item4> {
             child: Image.asset('images/jacket5.jpg'),
 
           ),
-          Text("Item name: Jacket 1",
+          Text("Item name: Jacket 5",
             style: TextStyle(
               fontSize: 30,
               fontFamily: 'Fasthand',
@@ -321,7 +321,7 @@ class _Item5State extends State<Item5> {
             child: Image.asset('images/jacket6.jpg'),
 
           ),
-          Text("Item name: Jacket 1",
+          Text("Item name: Jacket 6",
             style: TextStyle(
               fontSize: 30,
               fontFamily: 'Fasthand',
@@ -396,7 +396,7 @@ class _Item21State extends State<Item21> {
             child: Image.asset('images/shoes1.jpg'),
 
           ),
-          Text("Item name: Jacket 1",
+          Text("Item name: shoes 1",
             style: TextStyle(
               fontSize: 30,
               fontFamily: 'Fasthand',
@@ -471,7 +471,7 @@ class _Item22State extends State<Item22> {
             child: Image.asset('images/shoes2.jpg'),
 
           ),
-          Text("Item name: Jacket 1",
+          Text("Item name: shoes 2",
             style: TextStyle(
               fontSize: 30,
               fontFamily: 'Fasthand',
@@ -546,7 +546,7 @@ class _Item23State extends State<Item23> {
             child: Image.asset('images/shoes3.jpg'),
 
           ),
-          Text("Item name: Jacket 1",
+          Text("Item name: shoes 3",
             style: TextStyle(
               fontSize: 30,
               fontFamily: 'Fasthand',
@@ -621,7 +621,7 @@ class _Item24State extends State<Item24> {
             child: Image.asset('images/shoes4.jpg'),
 
           ),
-          Text("Item name: Jacket 1",
+          Text("Item name: shoes 4",
             style: TextStyle(
               fontSize: 30,
               fontFamily: 'Fasthand',
@@ -696,7 +696,7 @@ class _Item31State extends State<Item31> {
             child: Image.asset('images/trouser2.jpg'),
 
           ),
-          Text("Item name: Jacket 1",
+          Text("Item name: trouser 1",
             style: TextStyle(
               fontSize: 30,
               fontFamily: 'Fasthand',
@@ -771,7 +771,7 @@ class _Item32State extends State<Item32> {
             child: Image.asset('images/trouser2.jpg'),
 
           ),
-          Text("Item name: Jacket 1",
+          Text("Item name:trouser 2",
             style: TextStyle(
               fontSize: 30,
               fontFamily: 'Fasthand',
@@ -846,7 +846,7 @@ class _Item33State extends State<Item33> {
             child: Image.asset('images/trouser3.jpg'),
 
           ),
-          Text("Item name: Jacket 1",
+          Text("Item name: trouser 3",
             style: TextStyle(
               fontSize: 30,
               fontFamily: 'Fasthand',
@@ -922,7 +922,7 @@ class _Item34State extends State<Item34> {
             child: Image.asset('images/trouser1.webp'),
 
           ),
-          Text("Item name: Jacket 1",
+          Text("Item name: trouser 4",
             style: TextStyle(
               fontSize: 30,
               fontFamily: 'Fasthand',
